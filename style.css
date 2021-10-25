@@ -1,0 +1,14 @@
+body{
+    width: 50%;
+    margin: auto;
+}
+
+.booleaner{
+    background-color: aqua; height: 20%;
+    background-image: url(img/pattern.png); background-size: 400px;
+}
+
+h1{
+    font-size: 48px;
+    margin-bottom: auto;
+}
