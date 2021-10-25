@@ -10,5 +10,24 @@ body{
 
 h1{
     font-size: 48px;
-    margin-bottom: auto;
+    margin-bottom: 0px;
+    margin-top: 10px;
 }
+
+.scritto{
+    display: block;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    color: rgb(153,153,153);
+}
+
+span{
+    color: blue;
+}
+
+.data{
+    margin-top: 5px;
+    display: block;
+    color: rgb(153,153,153);
+}
+
