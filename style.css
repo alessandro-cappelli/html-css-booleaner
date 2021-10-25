@@ -1,6 +1,7 @@
 body{
     width: 50%;
     margin: auto;
+    display: block;
 }
 
 .booleaner{
@@ -74,5 +75,13 @@ h3{
     text-align: center;
     width: 280px;
     height: 160px;
+}
 
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.linea{
+    background-color: #B1E5F2;
 }
