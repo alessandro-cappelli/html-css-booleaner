@@ -55,7 +55,7 @@ h3{
     background-image: url(img/monitor.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
-    font-size: 140%;
+    font-size: 18px;
     font-weight: normal;
     line-height: 270px;
     text-align: center;
@@ -68,11 +68,11 @@ h3{
     background-image: url(img/graph.jpg);
     background-repeat: no-repeat;
     color: #FFFFFF;
-    font-size: 140%;
+    font-size: 18px;
     font-weight: normal;
     line-height: 270px;
     text-align: center;
     width: 280px;
     height: 160px;
-    margin-top: 10px;
+
 }
