@@ -50,3 +50,29 @@ h3{
     color: rgb(153,153,153);
 }
 
+.immagine1{
+    margin: 0px;
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 270px;
+    text-align: center;
+    width: 280px;
+    height: 160px;
+}
+
+.immagine2{
+    margin: 0px;
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 270px;
+    text-align: center;
+    width: 280px;
+    height: 160px;
+    margin-top: 10px;
+}
