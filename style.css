@@ -39,7 +39,6 @@ h1{
     background-color: yellow;
 }
 
-
 table {
     border:1px; 
     width:100%;
@@ -49,10 +48,4 @@ table {
 
 h3{
     color: rgb(153,153,153);
-}
-
-.immagine1{
-    background-image: url(img/monitor.jpg);
-    color: white;
-    
 }
