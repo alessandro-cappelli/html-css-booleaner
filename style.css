@@ -45,5 +45,14 @@ table {
     width:100%;
     height:auto;
     border-collapse: collapse;
-    table-layout: ;
+}
+
+h3{
+    color: rgb(153,153,153);
+}
+
+.immagine1{
+    background-image: url(img/monitor.jpg);
+    color: white;
+    
 }
