@@ -21,7 +21,7 @@ h1{
     color: rgb(153,153,153);
 }
 
-span{
+.blu{
     color: blue;
 }
 
@@ -31,3 +31,19 @@ span{
     color: rgb(153,153,153);
 }
 
+.evidenziato1{
+    background-color: yellow;
+}
+
+.evidenziato2{
+    background-color: yellow;
+}
+
+
+table {
+    border:1px; 
+    width:100%;
+    height:auto;
+    border-collapse: collapse;
+    table-layout: ;
+}
