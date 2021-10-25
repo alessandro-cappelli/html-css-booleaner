@@ -42,10 +42,11 @@ h1{
 table {
     border:1px; 
     width:100%;
-    height:auto;
+    height:80%;
     border-collapse: collapse;
 }
 
 h3{
     color: rgb(153,153,153);
 }
+
